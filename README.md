@@ -26,5 +26,8 @@ By rotating the stepper motor with the proper angle, each wire length can be adj
 ### 3D Coordinate Control
 ### Live Camera Stream on Web Interface
 
-
+## Code
+Folder `arduino1_final_concurrent` holds the microcontroller code for controlling stepper motor 1,2. 
+Folder `arduino2_final_concurrent` holds the microcontroller code for controlling stepper motor 3,4.
+`esp_camera_stream` holds the code for the live wireless camera stream system.
 
