@@ -10,6 +10,5 @@ The project features a spidercam system with live streaming camera with a web in
 4 strings of length `l1`, `l2`, `l3`, `l4` are attached to 4 poles of height `h`. A specific value of the set `{l1, l2, l3, l4}` corresponds to a unique `(x,y,z)` coordinate of the tied point on the tip of the strings. 
 
 The relation between `{l1, l2, l3, l4}` and `(x,y,z)` can be found from 3D coordinate geometry as:
-$$l_1 = \sqrt{(x-0)^2 + (y-0)^2 + (z-h)^2}$$
-
+$`\l_1 = \sqrt{(x-0)^2 + (y-0)^2 + (z-h)^2}`$
 
