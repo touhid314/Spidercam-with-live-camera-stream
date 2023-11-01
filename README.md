@@ -5,7 +5,7 @@ The project features a spidercam system with live streaming camera with a web in
 
 ## Theory
 ### Controlling an object's coordinate in 3D with 4 strings
-![image](https://github.com/touhid314/Spidercam-with-live-camera-stream/assets/69526008/44209f62-56f1-4b10-a64d-5a62f8ad0d2e | width=100)
+<img src='https://github.com/touhid314/Spidercam-with-live-camera-stream/assets/69526008/44209f62-56f1-4b10-a64d-5a62f8ad0d2e' width='125'>
 
 4 strings of length `l1`, `l2`, `l3`, `l4` are attached to 4 poles of height `h`. A specific value of the set `{l1, l2, l3, l4}` corresponds to a unique `(x,y,z)` coordinate of the tied point on the tip of the strings. 
 
