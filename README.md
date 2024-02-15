@@ -27,3 +27,5 @@ Folder `arduino1_final_concurrent` holds the microcontroller code for controllin
 Folder `arduino2_final_concurrent` holds the microcontroller code for controlling stepper motor 3,4.
 `esp_camera_stream` holds the code for the live wireless camera stream system.
 
+## Implementation
+For implementation details and demonstration see the project paper.
